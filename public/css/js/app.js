@@ -1,5 +1,5 @@
 
-console.log('Cilent Side Javascript file is Loaded !')
+
 
 
 const weatherForm = document.querySelector('form')
