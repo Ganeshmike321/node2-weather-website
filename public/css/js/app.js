@@ -1,7 +1,4 @@
 
-
-
-
 const weatherForm = document.querySelector('form')
 
 const search = documeny.querySelector('input')
